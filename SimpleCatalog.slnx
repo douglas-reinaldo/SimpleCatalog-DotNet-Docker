@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".dockerignore" />
+    <File Path=".gitignore" />
+    <File Path="Dockerfile" />
+  </Folder>
+  <Project Path="SimpleCatalog.Api/SimpleCatalog.Api.csproj" />
+  <Project Path="SimpleCatalog.Tests/SimpleCatalog.Tests.csproj" Id="80c50d9b-b11c-4c5f-b9c2-bb29ab0a73a1" />
+</Solution>
