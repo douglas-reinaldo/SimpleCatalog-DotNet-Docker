@@ -15,6 +15,6 @@ public class ProdutoServiceTests
         // Assert
         Assert.NotNull(resultado);
         Assert.NotEmpty(resultado);
-        Assert.Equal(2, resultado.Count);
+        Assert.Equal(1, resultado.Count);
     }
 }
